@@ -1,21 +1,22 @@
-# Quiz-App
+# Quiz App 🎯
 
-A lightweight, engaging quiz web app built with plain HTML, CSS & JavaScript.
+A simple quiz app built with **HTML**, **CSS**, **JavaScript**, and **jQuery**.  
+Test your knowledge by answering multiple-choice questions and see your score instantly.
 
-##  Live Demo  
-[Try it here!](https://iskndrr.github.io/Quiz-App/)
+## 🌐 Live Demo
+[Click here to try it](https://iskndrr.github.io/Quiz-App/)
 
----
+## ✨ Features
+- Multiple-choice questions
+- Score tracking
+- Instant feedback
+- Simple and responsive design
 
-## Features  
-- Interactive multiple-choice questions  
-- Dynamic score tracking  
-- Clean, minimal design
-
-## Technologies Used  
+## 🛠️ Tech Stack
 - HTML5  
 - CSS3  
-- JavaScript
+- JavaScript (ES6+)  
+- jQuery
 
 ## Setup Instructions  
 1. Clone or download the repo  
